@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<title>origem do futsal</title>
+<head>
+    <style>
+        body  {background-color: papayawhip; text-align: center;}
+        h1    {color:black;}
+        p     {color:red;  }
+        ul.b  {color:red; text-align: left;}
+        table {
+  font-family: arial, sans-serif;
+  border-collapse:collapse;
+  width: 50%;
+}
+td, th {
+  border: 3px solid #dddddd;
+  text-align: center;
+  padding: 3px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+    </style>
+       <h1 style="color: black;"><b>FUTSAL</b></h1>
+</head> 
+<body>
+<p align="left">‎Futsal é o futebol adaptado para prática em uma quadra esportiva por times de 5 jogadores. As equipes, tal como no futebol, têm como objetivo colocar a bola na meta adversária, definida por dois postes verticais limitados pela altura por uma trave horizontal. Quando tal objetivo é alcançado, diz-se que um gol foi marcado, e um ponto é adicionado à equipe que o atingiu. O goleiro, último jogador responsável por evitar o gol, é o único autorizado a segurar a bola com as mãos.
+
+    Devido às proporções da área de jogo, o menor número de jogadores e a facilidade em que se pode jogar uma partida. Desde a sua criação até à atualidade existiram diversas variantes da modalidade assim como diversas designações, cujas regras divergem em alguns pontos. Sensivelmente desde a década de 1990 que a variante da modalidade com maior dimensão e mediatismo é designada de Futsal e é disputada segundo as leis e égide da FIFA, enquanto que a modalidade disputada segundo as leis da Associação Mundial de Futsal (AMF) é designada de Futebol de salão. Existe ainda uma terceira variante da modalidade designada de Showbol (também conhecida como Futebol Indoor (português europeu) ) sendo das 3, a que tem menor divulgação mundial.</p>
+    <h2><b>HISTÓRIA</b></h2>
+    <p align="left">O esporte teria sido inventado por volta de 1934, pelo professor Juan Carlos Ceriani Gravier, da Associação Cristã de Moços (ACM) de Montevidéu, Uruguai, dando-lhe o nome de indoor football.[5] O Uruguai, durante a década de 1930, era a grande referência no futebol, no qual a sua seleção havia sido bicampeã olímpica e sede da primeira Copa do Mundo de Futebol, promovida pela Federação Internacional de Futebol (FIFA), sendo também a primeira seleção campeã do torneio.
+
+        Em 1935, os professores João Lotufo e Asdrubal Monteiro, após se graduarem no Instituto Técnico da Federação Sul-Americana como secretários diretores de educação física da ACM, regressaram ao Brasil e introduziram o indoor football que passou a ser chamado de "futebol de salão". Por possuir características do regulamento, ainda a iniciar, o pequeno tamanho da quadra e o peso da bola, causavam muitos acidentes pela potência dos chutes.</p>
+    <p align="left">Devido a sua praticidade, tanto no reduzido número de jogadores necessários em uma partida, quanto no espaço menor que exigia, o esporte rapidamente adquiriu crescente popularidade, atingindo outras localidades, gerando novos torneios e conquistando adeptos em todas as capitais do país. Em 28 de julho de 1954, foi fundada a primeira federação de desporto no Brasil, a Federação Metropolitana de Futebol de Salão, atual Federação de Futebol de Salão do Rio de Janeiro, tendo Ammy de Moraes como seu primeiro presidente.[10] A Federação Mineira de Futebol de Salão seria fundada nesse mesmo ano, seguida da Federação Paulista, em 1955, e das federações Cearense, Paranaense, Gaúcha e Baiana, em 1956, a Catarinense e a Norte Rio-Grandense, em 1957 e a Sergipana em 1959. Nas décadas seguintes seriam gradualmente estabelecidas federações em todos os estados da União.</p>
+    <img src="1futsal.jpeg" alt="1 jogo de futsal" width="300px"> 
+<p align="center" style="color: black;"><b>VEJA A AGORA, O MELHOR JOGADOR DE FUTSAL DE 2002 A 2004, FORNECIDO POR FUTSAL AWARDS</b></p>
+<table width="50%" align="center">
+    <tr>
+        <th><B>ANO</B></th>
+        <th><b>JOGADOR</b></th>
+        <th><b>TIME EM QUE ATUOU</b></th>
+      </tr>
+      <tr>
+        <td>2002</td>
+        <td>Manoel Tobias</td>
+        <td>FS Cartagena</td>
+      </tr>
+      <tr>
+        <td>2003</td>
+        <td>Adriano Floglia</td>
+        <td>Arzignano Grifo</td>
+      </tr>
+      <tr>
+        <td>2004</td>
+        <td>Falcão</td>
+        <td>Malwee/jaguará</td>
+      </tr>
+      <p><a href="file:///home/aluno/icaro/esporte.html" target="_blank">Clique aqui para ver as regras do futsal</a></p>
+<a href="file:///home/aluno/icaro/resumofutsal.html" target="_blank">Clique aqui para ver o resumo sobre o futsal</a>
+    </body>
+    </html>
